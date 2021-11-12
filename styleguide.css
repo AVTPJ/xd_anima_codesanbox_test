@@ -1,0 +1,51 @@
+:root { 
+  --licorice: #151514;
+  --persian-green: #00b1ad;
+  --white: #ffffff;
+ 
+  --font-size-l2: 30px;
+  --font-size-l22: 40px;
+  --font-size-xl2: 60px;
+ 
+  --font-family-gotham-bold: "Gotham-Bold", Helvetica;
+  --font-family-gotham-book: "Gotham-Book", Helvetica;
+}
+.gotham-book-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-bold-persian-green-30px {
+  color: var(--persian-green);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gotham-book-normal-persian-green-30px {
+  color: var(--persian-green);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-bold-persian-green-60px {
+  color: var(--persian-green);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gotham-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-l22);
+  font-style: normal;
+  font-weight: 700;
+}

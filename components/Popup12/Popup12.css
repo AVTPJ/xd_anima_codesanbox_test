@@ -1,0 +1,175 @@
+.popup-12 {
+  align-items: flex-start;
+  background-color: var(--licorice);
+  display: flex;
+  height: 1080px;
+  padding: 0 150px;
+  width: 1920px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 116.77px;
+  min-height: 894px;
+  width: 985px;
+}
+
+.title {
+  letter-spacing: -1.50px;
+  line-height: 72px;
+  min-height: 74px;
+  white-space: nowrap;
+}
+
+.text-1 {
+  height: 268px;
+  letter-spacing: -1.00px;
+  line-height: 48px;
+  margin-left: 1.8px;
+  margin-top: 79px;
+  width: 926px;
+}
+
+.overlap-group1 {
+  height: 372px;
+  margin-left: 1.8px;
+  margin-top: 101px;
+  position: relative;
+  width: 984px;
+}
+
+.text-2 {
+  height: 372px;
+  left: 0;
+  letter-spacing: -0.75px;
+  line-height: 36px;
+  position: absolute;
+  top: 0;
+  width: 984px;
+}
+
+.span1-1 {
+  letter-spacing: -0.84px;
+  text-decoration: underline;
+}
+
+.wwwkcsnorguk {
+  cursor: pointer;
+  height: 41px;
+  left: 0;
+  letter-spacing: -0.75px;
+  line-height: 36px;
+  position: absolute;
+  top: 217px;
+  white-space: nowrap;
+  width: 259px;
+}
+
+.span1 {
+  text-decoration: underline;
+}
+
+.wwwkcukorguk {
+  cursor: pointer;
+  height: 41px;
+  left: 0;
+  letter-spacing: -0.84px;
+  line-height: 36px;
+  position: absolute;
+  top: 73px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.span0 {
+  letter-spacing: -0.75px;
+}
+
+.group-16 {
+  display: flex;
+  height: 342px;
+  margin-left: 112px;
+  margin-top: 264.08px;
+  width: 367px;
+}
+
+.group-15 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 366.94px;
+}
+
+.overlap-group {
+  height: 342px;
+  position: relative;
+  width: 367px;
+}
+
+.path-24 {
+  height: 265px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 367px;
+}
+
+.path-25 {
+  height: 82px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.path-26 {
+  height: 36px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 173px;
+}
+
+.path-27 {
+  height: 36px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 93px;
+}
+
+.path-28 {
+  height: 29px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 54px;
+}
+
+.path-29 {
+  height: 22px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 33px;
+}
+
+.ellipse-6 {
+  background-color: var(--persian-green);
+  border-radius: 27.74px/10.66px;
+  height: 21px;
+  left: 165px;
+  position: absolute;
+  top: 157px;
+  transform: rotate(-22.57deg);
+  width: 55px;
+}
+
